@@ -1,0 +1,7 @@
+This tiny Perl script will parse Zaraf's Alchmey Recipe Guide, from GameFAQs, and generate dot graphs of the dependencies.
+
+You can find the latest version of this alchemy guide here: http://www.gamefaqs.com/ds/937281-dragon-quest-ix-sentinels-of-the-starry-skies/faqs/60451
+
+To run this, you need:
+1) A recent version of Perl. Fortunately, no external modules were used.
+2) Graphviz - http://www.graphviz.org/ or `sudo apt-get install graphviz`
