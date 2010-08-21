@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p images
+./alchemy.pl < alchemy.txt
+for f in *.dot; do a=${f%.dot}; dot -Tsvg < $a.dot > images/$a.svg; done;
+rm *.dot

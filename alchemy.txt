@@ -1,0 +1,2762 @@
+ /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+ |                              Dragon Quest IX                             |
+ |                                                                          |
+ |                            Alchemy Recipe Guide                          |
+ \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+
+Author: Zaraf
+Email: fqureshi.zaraf@gmail.com
+ v1.2  Aug 4, 2010
+
+Table of Contents
+
+ 1. Introduction
+
+ 2. Weapons
+   A. Swords                        [RCP01]
+   B. Spears                        [RCP02]
+   C. Knives                        [RCP03]
+   D. Wands                         [RCP04]
+   E. Whips                         [RCP05]
+   F. Staves                        [RCP06]
+   G. Claws                         [RCP07]
+   H. Fans                          [RCP08]
+   I. Axes                          [RCP09]
+   J. Hammers                       [RCP10]
+   K. Boomerangs                    [RCP11]
+   L. Bows                          [RCP12]
+
+ 3. Armor
+   M. Shields                       [RCP13]
+   N. Head                          [RCP14]
+   O. Torso                         [RCP15]
+   P. Arms                          [RCP16]
+   Q. Legs                          [RCP17]
+   R. Feet                          [RCP18]
+
+ 4. Accessories                     [RCP19]
+
+ 5. Items                           [RCP20]
+
+ 6. Alchemiracles                   [RCP21]
+
+ 7. Locating Ingredients
+   S. Items Found on World Map      [RCP22]
+   T. Monster Drops - Alchemy       [RCP23]
+   U. Monster Drops - Non-Alchemy   [RCP24]
+   V. Shops - Consumables & Alchemy [RCP25]
+   W. Shops - Weapons               [RCP26]
+   X. Shops - Armour & Accessories  [RCP27]
+
+ 8. Making Money With Alchemy       [RCP28]
+
+ 9. Contact Info
+
+10. Copyright
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~Introduction-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+In Dragon Quest IX, you will be able to combine weapons, armor, items and 
+alchemy materials to create new and more powerful things.  This includes new
+weapons, armor, accessories and items.  Some of the most powerful equipment
+can only be acquired through alchemy.
+
+You will be able to use alchemy once you receive the Krak Pot.  It will be
+located at the Inn in Stornway.  Receiving the Krak Pot is a triggered event
+that occurs as you progress through the story and visit the Inn in Stornway.
+Don't worry, you won't miss it.
+
+There are two ways to go about creating new stuff.  You can use recipes or you
+can "Try your luck".  In trying your luck, you can just attempt to combine
+whatever items you feel like.  However note that unless the combined items
+match a valid recipe, the result will be nothing (although you do not lose
+your materials).  Trying your luck is handy since you will be able to create
+things that you haven't found the recipe for by using the recipes shown in
+this guide.
+
+Using recipes is easier since you do not have to manually locate the items you
+wish to combine, however, you must first find the recipes.  Recipes can be
+found by searching bookshelves around the world.  You will always find a group
+of recipes together, so it doesn't take too long to get lots.
+
+There is no chance of failure in creating something.  As long as the recipe is
+valid, you will succeed.  The only slight exception to this is with regards to
+ultimate equipment (5 star equipment).  They can only be acquired while
+attempting to create their predecessor and there is some luck involved.  You
+have a 20% chance to create the ultimate equipment instead of the one you were
+trying for.  The equipment that this applies to will be mentioned in the list.
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-Weapons-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Swords )-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP01]
+
+
+ 1) Warrior's sword
+         = Soldier's Sword x 1 + Raging ruby x 1 + Warrior's helm x 1
+
+ 2) Fizzle foil
+         = Rapier x 1 + Narspicious x 3 + Mithril ore x 1
+
+ 3) Steel broadsword
+         = Iron broadsword x 1 + Iron ore x 1 + Lava lump x 1
+
+ 4) Gigasteel broadsword
+         = Steel broadsword x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 5) Aurora Blade
+         = Cautery sword x 1 + Brighten rock x 3 + Holy water x 1
+
+ 6) Platinum sword
+         = Iron broadsword x 1 + Platinum ore x 1 + Hephaestus' flame x 1
+
+ 7) Dragon slayer
+         = Dragonsbane x 1 + Mighty armlet x 1
+
+ 8) Über falcon blade
+         = Falcon blade x 1 + Meteorite bracer x 1
+
+ 9) Über miracle sword
+         = Miracle sword x 1 + Life bracer x 2
+
+10) Fire blade
+         = Valkyrie sword x 1 + Lava lump x 3 + Rockbomb shard x 1
+
+11) Inferno blade
+         = Fire blade x 1 + Sunstone x 1 + Rockbomb shard x 3
+
+12) Liquid metal sword
+         = Metal slime sword x 1 + Orichalcum x 1 + Slimedrop x 6
+
+13) Metal king sword
+         = Liquid metal sword x 1 + Orichalcum x 1 + Slime crown x 1
+
+14) Erdrick's sword
+         = Rusty sword x 1 + Glass frit x 9 + Orichalcum x 1
+
+15) Stardust sword
+         = Supernova sword x 1 + Reset stone x 1
+
+15) Nebula sword
+         = Stardust sword x 1 + Agate of evolution x 1 + Silver orb x 1
+
+16) Supernova sword
+         = Nebula sword x 1 + Agate of evolution x 3 + Silver orb x 3
+
+17) Hypernova sword
+         = Nebula sword x 1 + Agate of evolution x 3 + Silver orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Spears )-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP02]
+
+
+ 1) Steel lance
+         = Iron lance x 1 + Iron ore x 1 + Lava lump x 1
+
+ 2) Gigasteel lance
+         = Steel lance x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Celestial spear
+         = Long spear x 1 + Holy talisman x 1 + Platinum ore x 2
+
+ 4) Holy lance
+         = Iron Spear x 1 + Gold rosary x 1
+
+ 5) Trident
+         = Battle fork x 1 + Seashell x 2 + Crimson coral x 2
+
+ 6) Graco's trident
+         = Trident x 1 + Mighty armlet x 1 + Densinium x 2
+
+ 7) Sandstorm spear
+         = Holy lance x 1 + Kitty litter x 2 + Glass frit x 2
+
+ 8) Halberd
+         = Partisan x 1 + Battle-axe x 1
+
+ 9) Lightning lance
+         = Celestial spear x 1 + Thunderball x 3 + Mithril ore x 1
+
+10) Storm spear
+         = Lightning spear x 1 + Thunderball x 5 + Gold bar x 1
+
+11) Demon spear
+         = Celestial spear x 1 + Terrible tattoo x 3 + Malicite x 1
+
+12) Liquid slime spear
+         = Metal slime spear x 1 + Orichalcum x 1 + Slimedrop x 6
+
+13) Metal king spear
+         = Liquid slime spear x 1 + Orichalcum x 1 + Slime crown x 1
+
+14) Poker
+         = Split-pot poker x 1 + Reset stone x 1
+
+14) Stud poker
+         = Poker x 1 + Agate of evolution x 1 + Red orb x 1
+
+15) Split-pot poker
+         = Stud poker x 1 + Agate of evolution x 3 + Red orb x 3
+
+16) Red-hot poker
+         = Stud poker x 1 + Agate of evolution x 3 + Red orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Knives )-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP03]
+
+
+ 1) Divine dagger
+         = Bronze knife x 1 + Holy water x 3
+
+ 2) Poison moth knife
+         = Divine dagger x 1 + Coagulant x 2 + Manky mud x 1
+
+ 3) Batterfly knife
+         = Poison moth knife x 1 + Coagulant x 3 + Butterfly wing x 3
+
+ 4) Dread dagger
+         = Batterfly knife x 1 + Disturbin' turban x 1 + Butterfly wing x 5
+
+ 5) Poison needle
+         = Magic beast horn x 1 + Manky mud x 3
+
+ 6) Falcon knife earring
+         = Deadly nightblade x 1 + Slime earrings x 1 + Agility ring x 3
+
+ 7) Assassin's dagger
+         = Deadly nightblade x 1 + Poison needle x 1 + Evencloth x 2
+
+ 8) Icicle dirk
+         = Divine dagger x 1 + Ice crystal x 3 + Edged boomerang x 1
+
+ 9) Fenrir fang
+         = Icicle dirk x 1 + Ice crystal x 5 + Magic beast horn x 3
+
+10) Soul breaker
+         = Sword breaker x 1 + Life bracer x 1 + Spirit bracer x 1
+
+11) Gladius
+         = Flame tang x 1 + Reset stone x 1
+
+12) Flame tang
+         = Gladius x 1 + Sunstone x 1 + Crimson coral x 3
+
+13) Deft dagger
+         = Dashing dagger x 1 + Reset stone x 1
+
+14) Darting dagger
+         = Deft dagger x 1 + Agate of evolution x 1 + Purple orb x 1
+
+15) Dashing dagger
+         = Darting dagger x 1 + Agate of evolution x 3 + Purple orb x 3
+
+16) Dynamo dagger
+         = Darting dagger x 1 + Agate of evolution x 3 + Purple orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Wands )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP04]
+
+
+ 1) Staff of sentencing
+         = Wizard's staff x 1 + Flurry feather x 1 + Magic water x 1
+
+ 2) Staff of divine wrath
+         = Staff of sentencing x 1 + Flurry feather x 3 + Sage's elixir x 1
+
+ 3) Watermaul wand
+         = Stolos' staff x 1 + Seashell x 3 + Crimson coral x 3
+
+ 4) Tsunami staff
+         = Watermaul wand x 1 + Celestial skein x 1 + Enchanted stone x 1
+
+ 5) Lightning staff
+         = Stolos' staff x 1 + Thunderball x 3 + Magic water x 1
+
+ 6) Lightning conductor
+         = Lightning staff x 1 + Thunderball x 5 + Sage's elixir x 1
+
+ 7) Magma staff
+         = Stolos' staff x 1 + Rockbomb shard x 3 + Brighten rock x 3
+
+ 8) Rune staff
+         = Stolos' staff x 1 + Ruby of protection x 1 + Magic water x 5
+
+ 9) Hieroglyph staff
+         = Rune staff x 1 + Sorcerer's ring x 1 + Sage's elixir x 3
+
+10) Mega-magical mace
+         = Magical mace x 1 + Astral plume x 1 + Mythril ore x 3
+
+11) Savant's staff
+         = Sage's staff x 1 + Agate of evolution x 1 + Sage's elixir x 3
+
+12) Bright staff
+         = Brilliant staff x 1 + Reset stone x 1
+
+13) Shining staff
+         = Bright staff x 1 + Agate of evolution x 1 + Blue orb x 1
+
+14) Brillant staff
+         = Shining staff x 1 + Agate of evolution x 3 + Blue orb x 3
+
+15) Aurora staff
+         = Shining staff x 1 + Agate of evolution x 3 + Blue orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Whips )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP05]
+
+
+ 1) Snakeskin whip
+         = Leather whip x 1 + Snakeskin x 3
+
+ 2) Serpentine whip
+         = Snakeskin whip x 1 + Snakeskin x 5 + Magic beast horn x 1
+
+ 3) Sidewinder
+         = Serpentine whip x 1 + Snakeskin x 6 + Tough guy tattoo x 1
+
+ 4) Spiked steel whip
+         = Iron whip x 1 + Iron ore x 1 + Lava lump x 1
+
+ 5) Gigaspike whip
+         = Spiked steel whip x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 6) Dragontail whip
+         = Iron whip x 1 + Dragon scale x 3 + Aggressence x 1
+
+ 7) Demon whip
+         = Iron whip x 1 + Terrible tattoo x 1 + Wing of bat x 3
+
+ 8) Archdemon whip
+         = Demon whip x 1 + Terrible tattoo x 2 + Malicite x 1
+
+ 9) Scourge whip
+         = Archdemon whip x 1 + Saint's ashes x 1
+
+10) Empress's whip
+         = Queen's whip x 1 + Highness heels x 1 + Monarchic mark x 1
+
+11) Goddess whip
+         = Empress's whip x 1 + Goddess ring x 1 + Agate of evolution x 1
+
+12) Gringham whip
+         = Giga Gringham whip x 1 + Reset stone x 1
+
+13) Mega Gringham whip
+         = Gringham whip x 1 + Agate of evolution x 1 + Green orb x 1
+
+14) Giga Gringham whip
+         = Mega Gringham whip x 1 + Agate of evolution x 3 + Green orb x 3
+
+15) Über Gringham whip
+         = Mega Gringham whip x 1 + Agate of evolution x 3 + Green orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Staves )-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP06]
+
+
+ 1) Steel bar
+         = Iron bar x 1 + Iron ore x 1 + Lava lump x 1
+
+ 2) Gigasteel bar
+         = Steel bar x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Pillar of strength
+         = Oaken pole x 3 + Utility belt x 1
+
+ 4) Killer pillar
+         = Driller pillar x 1 + Mighty armlet x 1
+
+ 5) Slumber stick
+         = Sleepy stick x 1 + Sleeping hibiscus x 3 + Narspicious x 1
+
+ 6) Mistick
+         = Driller pillar x 1 + Fresh water x 3 + Flurry feather x 3
+
+ 7) Optimistick
+         = Mistick x 1 + Celestial skein x 2 + Agility ring x 1
+
+ 8) Ballistick
+         = Optimistick x 1 + Technicolour dreamcloth x 1 + Mercurys bandana x 1
+
+ 9) Xenlon rod
+         = Dragon rod x 1 + Dragon scale x 3 + Sainted soma x 3
+
+10) Orichalcudgel
+         = Orichalcum x 3 + Hephaestus' flame x 3
+
+11) Knockout rod
+         = Catatonic cosh x 1 + Reset stone x 1
+
+12) Senseless stick
+         = Knockout rod x 1 + Agate of evolution x 1 + Blue orb x 1
+
+13) Catatonic cosh
+         = Senseless stick x 1 + Agate of evolution x 3 + Blue orb x 3
+
+14) Coma cudgel
+         = Senseless stick x 1 + Agate of evolution x 3 + Blue orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Claws )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP07]
+
+
+ 1) Steel claws
+         = Iron claws x 1 + Iron ore x 1 + Lava lump x 1
+
+ 2) Gigasteel claws
+         = Steel claws x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Sacred claws
+         = Iron claws x 1 + Holy talisman x 1
+
+ 4) Kestrel claws
+         = Crow's claws x 1 + Agility ring x 1
+
+ 5) Kite claws
+         = Krestrel claws x 1 + Enchanted stone x 2
+
+ 6) Hammer handrills
+         = Handrills x 1 + Iron nails x 5 + Iron ore x 1
+
+ 7) Fire claws
+         = Dragon claws x 1 + Lava lump x 3 + Rockbomb shard x 1
+
+ 8) Combusticlaws
+         = Fire claws x 1 + Sunstone x 1 + Rockbomb shard x 3
+
+ 9) King cobra claws
+         = Cobra claws x 1 + Terrible tattoo x 4 + Wing of bat x 4
+
+10) Beastmaster claws
+         = Beast claws x 1 + Monarchic mark x 1 + Magic beast horn x 9
+
+11) Orichalcum claws
+         = Combusticlaws x 1 + Orichalcum x 2 + Hephaestus' flame x 2
+
+12) Dragonlord claws
+         = Dragovian lord clas x 1 + Reset stone x 1
+
+13) Dragovian claws
+         = Dragonlord claws x 1 + Agate of evolution x 1 + Red orb x 1
+
+14) Dragovian lord claws
+         = Dragovian claws x 1 + Agate of evolution x 3 + Red orb x 3
+
+15) Xenlon claws
+         = Dragovian claws x 1 + Agate of evolution x 3 + Red orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Fans )-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP08]
+
+
+ 1) Steel fan
+         = Iron fan x 1 + Iron ore x 1 + Lava lump x 1
+
+ 2) Gigasteel fan
+         = Steel fan x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Foehn fan
+         = Feather fan x 1 + Flurry feather x 1 + Agility ring x 1
+
+ 4) Gale force fan
+         = Foehn fan x 1 + Enchanted stone x 1 + Agility ring x 1
+
+ 5) Cobra fan
+         = War fan x 1 + Snakeskin x 2 + Dragon scale x 1
+
+ 6) Azure Dragon fan
+         = Cobra fan x 1 + Thunderball x 3 + Dragon scale x 2
+
+ 7) Fowl fan
+         = War fan x 1 + Flurry feather x 2 + Crimson coral x 2
+
+ 8) Vermillion Bird fan
+         = Fowl fan x 1 + Lava lump x 3 + Razor-wing boomerang x 1
+
+ 9) Feline fan
+         = War fan x 1 + Kitty litter x 2 + Seashell x 2
+
+10) White Tiger fan
+         = Feline fan x 1 + Ice crystal x 3 + Kitty shield x 1
+
+11) Tortoiseshell fan
+         = War fan x 1 + Tortoiseshell x 2 + Evencloth x 1
+           Note: Tortoiseshell is the alchemy material.
+
+12) Black Tortoise fan
+         = Tortoiseshell fan x 1 + Royal soil x 3 + Tortoise shell x 1
+           Note: Tortoise shell is the armour.
+
+13) Lunar fan
+         = Stellar fan x 1 + Full moon ring x 1 + Lucida shard x 1
+
+14) Solar fan
+         = Lunar fan x 1 + Sunstone x 1 + Crimson coral x 3
+
+15) Friendly fan
+         = Solar fan x 1 + Life bracer x 1 + Horse manure x 9
+
+16) Critical fan
+         = Hypercritical fan x 1 + Reset stone x 1
+
+17) Overcritical fan
+         = Critical fan x 1 + Agate of evolution x 1 + Green orb x 1
+
+18) Hypercritical fan
+         = Overcritical fan x 1 + Agate of evolution x 3 + Green orb x 3
+
+19) Dire critical fan
+         = Overcritical fan x 1 + Agate of evolution x 3 + Green orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Axes )-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP09]
+
+
+ 1) Steel axe
+         = Iron axe x 1 + Iron ore x 1 + Lava lump x 1
+
+ 2) Gigasteel axe
+         = Steel axe x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Golden axe
+         = Iron axe x 1 + Gold bar x 1
+
+ 4) Moon axe
+         = Battle-axe x 1 + Lunaria x 1 + Mystifying mixture x 1
+
+ 5) Full moon axe
+         = Moon axe x 1 + Full moon ring x 1 + Mystifying mixture x 3
+
+ 6) King axe
+         = Golden axe x 1 + Slime crown x 1
+
+ 7) Kaiser axe
+         = King axe x 1 + Slime crown x 1 + Monarchic mark x 1
+
+ 8) Executioner's axe
+         = Headsman's axe x 1 + Ethereal stone x 2 + Raging ruby x 1
+
+ 9) Ice axe
+         = Kaiser axe x 1 + Ice crystal x 3 + Icicle dirk x 3
+
+10) Avalanche axe
+         = Ice axe x 1 + Ice crystal x 6 + Agate of evolution x 1
+
+11) Bad axe
+         = Climaxe x 1 + Reset stone x 1
+
+12) Maxi axe
+         = Bad axe x 1 + Agate of evolution x 1 + Purple orb x 1
+
+13) Climaxe
+         = Maxi axe x 1 + Agate of evolution x 3 + Purple orb x 3
+
+14) Galaxy axe
+         = Maxi axe x 1 + Agate of evolution x 3 + Purple orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Hammers )-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP10]
+
+
+ 1) Ace of clubs
+         = Oaken club x 1 + Belle cap x 3
+
+ 2) Über war hammer
+         = War hammer x 1 + Mighty armlet x 1
+
+ 3) Terra tamper
+         = Über war hammer x 1 + Royal soil x 3 + Flintstone x 1
+
+ 4) Terra firmer
+         = Terra tamper x 1 + Royal soil x 5 + Densinium x 2
+
+ 5) Terra hammer
+         = Terra firmer x 1 + Royal soil x 7 + Ethereal stone x 3
+
+ 6) Titan's hammer
+         = Giant's hammer x 1 + Agate of evolution x 1 + Tough guy tattoo x 1
+
+ 7) Megaton hammer
+         = Hela's hammer x 1 + Orichalcum x 1 + Densinium x 3
+
+ 8) Warlord's hammer
+         = Megaton hammer x 1 + Orichalcum x 1 + Mighty armlet x 1
+
+ 9) Groundbreaker
+         = Moonmasher x 1 + Reset stone x 1
+
+10) Earthsplitter
+         = Groundbreaker x 1 + Agate of evolution x 1 + Yellow orb x 1
+
+11) Moonmasher
+         = Earthsplitter x 1 + Agate of evolution x 3 + Yellow orb x 3
+
+12) Starsmasher
+         = Earthsplitter x 1 + Agate of evolution x 3 + Yellow orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Boomerangs )-~-~-~-~-~-~-~-~-~-~-~-~-[RCP11]
+
+
+ 1) Reinforced boomerang
+         = Boomerang x 1 + Iron nails x 3
+
+ 2) Cutting-edge boomerang
+         = Edged boomerang x 1 + Magic beast horn x 3 + Iron nails x 3
+
+ 3) Crucerang
+         = Reinforced boomerang x 1 + Hunter's bow x 1 + Gold rosary x 1
+
+ 4) Razer-wing boomerang
+         = Razor-wing boomerang x 1 + Lunaria x 3
+
+ 5) Erazor-wing boomerang
+         = Razer-wing boomerang x 1 + Aggressence x 3 + Mythril ore x 1
+
+ 6) Eaglewing
+         = Swallowtail x 1 + Kestrel claws x 1 + Flurry feather x 3
+
+ 7) Gusterang
+         = Swallowtail x 1 + Flurry feather x 3 + Agility ring x 1
+
+ 8) Blusterang
+         = Gusterang x 1 + Staff of divine wrath x 1 + Agility ring x 2
+
+ 9) Flametang boomerang
+         = Gusterang x 1 + Lava lump x 3 + Rockbomb shard x 3
+
+10) Banefire boomerang
+         = Flametang boomerang x 1 + Sunstone x 1 + Rockbomb shard x 3
+
+11) Pentarang
+         = Hexarang x 1 + Reset stone x 1
+
+12) Hexarang
+         = Pentarang x 1 + Lucida shard x 3 + Mythril ore x 3
+
+13) Meteorang
+         = Stellarang x 1 + Reset stone x 1
+
+14) Asterang
+         = Meteorang x 1 + Agate of evolution x 1 + Silver orb x 1
+
+15) Stellarang
+         = Asterang x 1 + Agate of evolution x 3 + Silver orb x 3
+
+16) Galaxrang
+         = Asterang x 1 + Agate of evolution x 3 + Silver orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Bows )-~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP12]
+
+
+ 1) Longbow
+         = Short bow x 1 + Laundry pole x 1
+
+ 2) Hunter's bow
+         = Longbow x 1 + Chain whip x 1
+
+ 3) Hotshot bow
+         = Potshot bow x 1 + Hunter's hat x 1 + Archer's armguard x 1
+
+ 4) Blowy bow
+         = Potshot bow x 1 + Flurry feather x 3 + Agility ring x 1
+
+ 5) Billowing bow
+         = Blowy bow x 1 + Staff of divine wrath x 1 + Celestial skein x 2
+
+ 6) Blustery bow
+         = Billowing bow x 1 + Gusterang x 1 + Celestial skein x 3
+
+ 7) Purblind bow
+         = Great bow x 1 + Mystifying mixture x 1 + Enchanted stone x 3
+
+ 8) Blinding bow
+         = Purblind bow x 1 + Mystifying mixture x 2 + Ethereal stone x 3
+
+ 9) Oh-no bow
+         = Odin's bow x 1 + Malicite x 1
+
+10) Odin's bow
+         = Oh-no bow x 1 + Saint's ashes x 3
+
+11) Angel's bow
+         = Aeon's bow x 1 + Reset stone x 1
+
+12) Archangel's bow
+         = Angel's bow x 1 + Agate of evolution x 1 + Yellow orb x 1
+
+13) Aeon's bow
+         = Archangel's bow x 1 + Agate of evolution x 3 + Yellow orb x 3
+
+14) Seraph's bow
+         = Archangel's bow x 1 + Agate of evolution x 3 + Yellow orb x 3
+           See Alchemiracles section for details
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~Armour-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Shields )~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP13]
+
+
+ 1) Gold platter
+         = Silver platter x 1 + Gold bracer x 1
+
+ 2) Platinum platter
+         = Gold platter x 1 + Platinum ore x 1
+
+ 3) Shell shield
+         = Scale shield x 1 + Tortoiseshell x 1
+           Note: Tortoiseshell is the alchemy material.
+
+ 4) Steel shield
+         = Iron shield x 1 + Iron ore x 1 + Royal soil x 1
+
+ 5) Gigasteel shield
+         = Steel shield x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 6) Kitty shield
+         = Light shield x 1 + Kitty litter x 1
+
+ 7) Catty shield
+         = Kitty shield x 1 + Kitty litter x 2
+
+ 8) White shield
+         = Light shield x 1 + Seashell x 5 + Holy water x 5
+
+ 9) Enchanted shield
+         = Magic shield x 1 + Enchanted stone x 1
+
+10) Ethereal shield
+         = Enchanted shield x 1 + Ethereal stone x 1
+
+11) Flame shield
+         = Magic shield x 1 + Lava lump x 1 + Resurrock x 1
+
+12) Ice Shield
+         = Magic shield x 1 + Ice crystal x 1 + Resurrock x 1
+
+13) Platinum shield
+         = Light shield x 1 + Platinum ore x 1 + Hephaestus' flame x 1
+
+14) Dragon shield
+         = Magic shield x 1 + Dragon scale x 3 + Raging ruby x 1
+
+15) Tempest shield
+         = Magic shield x 1 + Flurry feather x 3 + Ruby of protection x 1
+
+16) Power shield
+         = Warrior's shield x 1 + Raging ruby x 1 + Panacea x 1
+
+17) Empowered shield
+         = Power shield x 1 + Life bracer x 2
+
+18) White knight's shield
+         = White shield x 1 + Holy talisman x 1 + Mythril ore x 1
+
+19) Ogre shield
+         = Dark shield x 1 + Densinium x 2 + Magic beast horn x 5
+
+20) Silver shield
+         = White knight's shield x 1 + Mirrorstone x 3 + Mythril ore x 2
+
+21) Big boss shield
+         = Boss shield x 1 + Agate of evolution x 1 + Mighty armlet x 1
+
+22) Saintess shield
+         = Ruinous shield x 1 + Saint's ashes x 3
+
+23) Goddess shield
+         = Saintess shield x 1 + Goddess ring x 1 + Orichalcum x 1
+
+24) Liquid metal shield
+         = Metal slime shield x 1 + Orichalcum x 1 + Slimedrop x 6
+
+25) Metal king shield
+         = Liquid metal shield x 1 + Orichalcum x 1 + Slime crown x 1
+
+26) Erdrick's shield
+         = Rusty shield x 1 + Glass frit x 9 + Orichalcum x 1
+
+27) Brain drainer
+         = Devilry drinker x 1 + Reset stone x 1
+
+28) Psyche swiper
+         = Brain drainer x 1 + Agate of evolution x 1 + Green orb x 1
+
+29) Devilry drinker
+         = Psyche swiper x 1 + Agate of evolution x 3 + Green orb x 3
+
+30) Soul sucker
+         = Psyche swiper x 1 + Agate of evolution x 3 + Green orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Head )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP14]
+
+
+ 1) Steel helmet
+         = Iron helmet x 1 + Iron ore x 1 + Royal soil x 1
+
+ 2) Gigasteel helmet
+         = Steel helmet x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Filigree mask
+         = Iron mask x 1 + Silver platter x 1 + Silver tiara x 1
+
+ 4) Platinum headgear
+         = Iron mask x 1 + Platinum ore x 1 + Hephaestus' flame x 1
+
+ 5) Mythril coif
+         = Mail coif x 1 + Mythril ore x 2
+
+ 6) Thinking cap
+         = Steel helmet x 1 + Gold circlet x 1 + Sorcerer's stone x 3
+
+ 7) Scholar's circlet
+         = Thinking cap x 1 + Brainy bracer x 1 + Safe's elixir x 1
+
+ 8) Raging bull helm
+         = Gigasteel helmet x 1 + Magic beast horn x 2 + Tough guy tattoo x 1
+
+ 9) Minotaur helm
+         = Raging bull helm x 1 + Magic beast horn x 4 + Mighty armlet x 1
+
+10) Hades' helm
+         = Great helm x 1 + Malicite x 1
+
+11) Mythril helm
+         = Platinum headgear x 1 + Mythril ore x 3
+
+12) Great helm
+         = Hades' helm x 1 + Saint's ashes x 1
+
+13) Crown of clarity
+         = Thinking cap x 1 + Thinkincense x 5 + Mythril ore x 1
+
+14) Skull helm
+         = Apollo's crown x 1 + Malicite x 1
+
+15) Sun crown
+         = Skull helm x 1 + Saint's ashes x 3
+
+16) Apollo's crown
+         = Sun crown x 1 + Agate of evolution x 1 + Sunstone x 1
+
+17) Liquid metal helm
+         = Metal slime helm x 1 + Orichalcum x 1 + Slimedrop x 6
+
+18) Metal king helm
+         = Liquid metal helm x 1 + Orichalcum x 1 + Slime crown x 1
+
+19) Erdrick's helmet
+         = Rusty helmet x 1 + Glass frit x 9 + Orichalcum x 1
+
+20) Hallowed helm
+         = Wonder helm x 1 + Reset stone x 1
+
+21) Blessed helm
+         = Hallowed helm x 1 + Agate of evolution x 1 + Purple orb x 1
+
+22) Wonder helm
+         = Blessed helm x 1 + Agate of evolution x 3 + Purple orb x 3
+
+23) Heavenly helm
+         = Blessed helm x 1 + Agate of evolution x 3 + Purple orb x 3
+           See Alchemiracles section for details
+
+24) Trailblazing bandana
+         = Bandana x 1 + Bow tie x 1
+
+25) Mercury's bandana
+         = Trailblazing bandana x 1 + Agility ring x 1
+
+26) Feathered cap
+         = Leather hat x 1 + Flurry feather x 1
+
+27) Bunny ears
+         = Hairband x 1 + Bunny tail x 2
+
+28) Cat ears
+         = Hairband x 1 + Kitty litter x 2
+
+29) Fur hood
+         = Leather hat x 1 + Magic beast hide x 1 + Lambswool x 1
+
+30) Pointy hat
+         = Leather hat x 1 + Magic beast horn x 1
+
+31) Golden tiara
+         = Silver tiara x 1 + Gold ring x 1 + Gold bracer x 1
+
+32) Slood
+         = Pointy hat x 1 + Slimedrop x 3
+
+33) Feather headband
+         = Hairband x 1 + Flurry feather x 2
+
+34) Hunter's hat
+         = Pointy hat x 1 + Lambswool x 1 + Magic beast hide x 1
+
+35) Ear cosy
+         = Fur hood x 1 + Bunny tail x 1 + Lambswool x 1
+
+36) Gold circlet
+         = Circlet x 1 + Gold ring x 1 + Gold bracer x 1
+
+37) Star circlet
+         = Gold circlet x 1 + Lucida shard x 1
+
+38) Tricky turban
+         = Turban x 1 + Toad oil x 1 + Snakeskin x 1
+
+39) Thief's turban
+         = Turban x 1 + Evencloth x 2
+
+40) Malleable mask
+         = Circlet x 1 + Butterfly wing x 2 + Narspicious x 2
+
+41) Papillon mask
+         = Malleable mask x 1 + Dread dagger x 1 + Narspicious x 3
+
+42) Canny cap
+         = Feathered cap x 1 + Brainy bracer x 2
+
+43) Musketeer hat
+         = Feathered cap x 1 + Feather headband x 1 + Magic beast hide x 3
+
+44) Mega-magical hat
+         = Magical hat x 1 + Prayer ring x 2 + Sorcerer's stone x 1
+
+45) Happy hat
+         = Unhappy hat x 1 + Lucky pendant x 1
+
+46) Spellward circlet
+         = Gold circlet x 1 + Monarchic mark x 1 + Gold bar x 1
+
+47) Phantom mask
+         = Papillon mask x 1 + Dark robe x 1 + Slipweed x 3
+
+48) Spring breeze hat
+         = Winter sky hat x 1 + Agate of evolution x 1 + Green orb x 1
+
+49) Summer cloud hat
+         = Spring breeze hat x 1 + Agate of evolution x 1 + Green orb x 1
+
+50) Autumn shower hat
+         = Summer cloud hat x 1 + Agate of evolution x 1 + Green orb x 1
+
+51) Winter sky hat
+         = Autumn shower hat x 1 + Agate of evolution x 1 + Green orb x 1
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Torso )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP15]
+
+
+ 1) Large-scale armour
+         = Scale armour x 1 + Scale shield x 1 + Snakeskin x 1
+
+ 2) Silver cuirass
+         = Iron cuirass x 1 + Silver platter x 1
+
+ 3) Full plate armour
+         = Iron armour x 1 + Iron ore x 1 + Royal soil x 1
+
+ 4) Gigasteel armour
+         = Full plate armour x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 5) Tortoise shell
+         = Iron cuirass x 1 + Tortoiseshell x 1 + Emerald moss x 1
+           Note: Tortoiseshell is the alchemy material.
+
+ 6) Tortoiseshell armour
+         = Tortoise shell x 1 + Tortoiseshell x 2 + Emerald moss x 2
+           Note: Tortoiseshell is the alchemy material.
+      Tortoise shell is the armour.
+
+ 7) Gold mail
+         = Silver mail x 1 + Gold ring x 1 + Gold bracer x 1
+
+ 8) Platinum mail
+         = Gold mail x 1 + Platinum ore x 1 + Hephaestus' flame x 1
+
+ 9) Enchanted armour
+         = Magic armour x 1 + Enchanted stone x 1
+
+10) Ethereal armour
+         = Enchanted armour x 1 + Ethereal stone x 1
+
+11) Dragon mail
+         = Magic armour x 1 + Dragon scale x 2 + Raging ruby x 1
+
+12) Spiked armour
+         = Magic armour x 1 + Magic beast horn x 2 + Iron nails x 5
+
+13) Holy mail
+         = Chain mail x 1 + Holy talisman x 1 + Mythril ore x 1
+
+14) Sacrosanct armour
+         = Sacred armour x 1 + Ruby of protection x 1 + Life bracer x 1
+
+15) Mirror armour
+         = Magic armour x 1 + Mirrorstone x 3 + Sober ring x 1
+
+16) Catoptric armour
+         = Mirror armour x 1 + Mirrorstone x 5 + Catholicon ring x 1
+
+17) Liquid metal armour
+         = Metal slime armour x 1 + Orichalcum x 1 + Slimedrop x 6
+
+18) Metal king armour
+         = Liquid metal armour x 1 + Orichalcum x 1 + Slime crown x 1
+
+19) Erdrick's armour
+         = Rusty armour x 1 + Glass frit x 9 + Orichalcum x 1
+
+20) Victorious armour
+         = Mythical armour x 1 + Reset stone x 1
+
+21) Glorious armour
+         = Victorious armour x 1 + Agate of evolution x 1 + Red orb x 1
+
+22) Mythical armour
+         = Glorious armour x 1 + Agate of evolution x 3 + Red orb x 3
+
+23) Legendary armour
+         = Glorious armour x 1 + Agate of evolution x 3 + Red orb x 3
+           See Alchemiracles section for details
+
+24) Tracksuit top
+         = Training top x 1 + Finessence x 1
+
+25) Fur poncho
+         = Leather cape x 1 + Magic beast hide x 3
+
+26) Cloak of concealment
+         = Cloak of evasion x 1 + Slipweed x 2 + Lambswool x 1
+
+27) Gooey gear
+         = Garish garb x 1 + Slimedrop x 3
+
+28) Majestic mantle
+         = Velvet cape x 1 + Bow tie x 1 + Brighten rock x 3
+
+29) Tussler's top
+         = Tracksuit top x 1 + Finessence x 1 + Magic beast hide x 2
+
+30) Dragon dress
+         = Strongsam x 1 + Dragon scale x 1 + Finessence x 2
+
+31) Flamenco shirt
+         = Garish garb x 1 + Brighten rock x 3 + Technicolour dreamcloth x 1
+
+32) Dancer's dress
+         = Dancers costume x 1 + Brighten rock x 3 + Technicolor dreamcloth x 1
+
+33) Fur vest
+         = Fur poncho x 1 + Magic beast hide x 3
+
+34) Superstar's suit
+         = Star's suit x 1 + Lucida shard x 3
+
+35) Technicolour tutu
+         = Tint-tastic tutu x 1 + Technicolour dreamcloth x 1
+
+36) Hot bikini top
+         = Dangerous bikini top x 1 + Seashell x 3 + Crimson coral x 2
+
+37) Sizzling bikini top
+         = Hot bikini top x 1 + Technicolour dreamcloth x 1 + Astral plume x 2
+
+38) Dragon top
+         = Tussler's top x 1 + Dragon scale x 2 + Finessence x 2
+
+39) Dark robe
+         = Velvet cape x 1 + Evencloth x 3 + Slipweed x 3
+
+40) Macabre mantle
+         = Dark robe x 1 + Wing of bat x 4 + Terrible tattoo x 3
+
+41) Twinkling tuxedo
+         = Smart suit x 1 + Bow tie x 1 + Brighten rock x 3
+
+42) Shimmering dress
+         = Spangled dress x 1 + Pink pearl x 1 + Brighten rock x 3
+
+43) Dangerous bustier
+         = Divine bustier x 1 + Reset stone x 1
+
+44) Silk bustier
+         = Dangerous bustier x 1 + Tangleweb x 7 + Silk robe x 3
+
+45) Divine bustier
+         = Silk bustier x 1 + Slipweed x 7 + Sainted soma x 3
+
+46) Tropotoga
+         = Mesotoga x 1 + Reset stone x 1
+
+47) Stratotoga
+         = Tropotoga x 1 + Agate of evolution x 1 + Blue orb x 1
+
+48) Mesotoga
+         = Stratotoga x 1 + Agate of evolution x 3 + Blue orb x 3
+
+49) Exotoga
+         = Stratotoga x 1 + Agate of evolution x 3 + Blue orb x 3
+           See Alchemiracles section for details
+
+50) Robe of sweet dreams
+         = Rober of serenity x 1 + Sleeping hibiscus x 3 + Lambswool x 3
+
+51) Enchanted robes
+         = Magical robes x 1 + Enchanted stone x 1
+
+52) Ethereal robes
+         = Enchanted robes x 1 + Ethereal stone x 1
+
+53) Saintly robe
+         = Ascetic robe x 1 + Rosary x 1 + Grubby bandage x 3
+
+54) Fizzle-proof suit
+         = Fizzle-retardant suit x 1 + Sorcerer's ring x 1 + Grubby bandage x 3
+
+55) Sage's robe
+         = Saintly robe x 1 + Fizzle-proof suit x 1 + Thinkincense x 3
+
+56) Flowing dress
+         = Enchanted robes x 1 + Celestial skein x 3
+
+57) Cape of good karma
+         = Majestic mantle x 1 + Thinkincense x 6 + Sage's elixir x 3
+
+58) Princess's robe
+         = Shimmering dress x 1 + Monarchic mark x 1
+
+59) Queen's robe
+         = Princess's robe x 1 + Monarch's mittens x 1 + Lambswool x 2
+
+60) Empress's robe
+         = Queen's robe x 1 + Spellward circlet x 1 + Lambswool x 3
+
+61) Prince's pea coat
+         = Twinkling tuxedo x 1 + Monarchic mark x 1
+
+62) King's coat
+         = Prince's pea coat x 1 + King axe x 1 + Lambswool x 2
+
+63) Emperor's attire
+         = King's coat x 1 + Slime crown x 1 + Lambswool x 3
+
+64) Celestria's gown
+         = Nightmare gown x 1 + Saint's ashes x 3
+
+65) Celestria's raiment
+         = Celestria's gown x 1 + Agate of evolution x 1 + Astral plume x 7
+
+66) Xenlon robe
+         = Dragon robe x 1 + Dragon top x 1 + Dragon dress x 1
+
+67) Angel's robe
+         = Aeon's robe x 1 + Reset stone x 1
+
+68) Archangel's robe
+         = Angel's robe x 1 + Agate of evolution x 1 + Yellow orb x 1
+
+69) Aeon's robe
+         = Archangel's robe x 1 + Agate of evolution x 3 + Yellow orb x 3
+
+70) Seraph's robe
+         = Archangel's robe x 1 + Agate of evolution x 3 + Yellow orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Arms )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP16]
+
+
+ 1) Steel gauntlets
+         = Iron gauntlets x 1 + Iron ore x 1 + Royal soil x 1
+
+ 2) Gigasteel gauntlets
+         = Steel gauntlets x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 3) Enchanted gloves
+         = Magic mittens x 1 + Enchanted stone x 1
+
+ 4) Ethereal gloves
+         = Enchanted gloves x 1 + Ethereal stone x 1
+
+ 5) Sturdy gauntlets
+         = Light gauntlets x 1 + Iron ore x 2 + Aggressence x 1
+
+ 6) Heavy gauntlets
+         = Sturdy gauntlets x 1 + Densinium x 2 + Aggressence x 1
+
+ 7) Blessed bindings
+         = Bruiser's bracers x 1 + Thinkincense x 3 + Sage's elixir x 2
+
+ 8) Liquid metal slime gloves
+         = Metal slime gauntlets x 1 + Orichalcum x 1 + Slimedrop x 6
+
+ 9) Metal king slime gloves
+         = Liquid metal slime gloves x 1 + Orichalcum x 1 + Slime crown x 1
+
+10) Erdrick's gauntlets
+         = Rusty gauntlets x 1 + Glass frit x 9 + Orichalcum x 1
+
+11) Vesta gauntlets
+         = Tempestes gauntlets x 1 + Reset stone x 1
+
+12) Diana gauntlets
+         = Vesta gauntlets x 1 + Agate of evolution x 1 + Red orb x 1
+
+13) Tempestes gauntlets
+         = Diana gauntlets x 1 + Agate of evolution x 3 + Red orb x 3
+
+14) Sol Invictus gauntlets
+         = Diana gauntlets x 1 + Agate of evolution x 3 + Red orb x 3
+           See Alchemiracles section for details
+
+15) Leather gloves
+         = Cotton gloves x 1 + Magic beast hide x 1
+
+16) Marquess's mittens
+         = Mayoress's mittens x 1 + Monarchic mark x 1
+
+17) Monarch's mittens
+         = Marquess's mittens x 1 + Highness heels x 1
+
+18) Guru's gloves
+         = Heavy handwear x 1 + Thinkincense x 3 + Sage's elixir x 2
+
+19) Gloomy gloves
+         = Heavy handwear x 1 + Evencloth x 3
+
+20) Murky mittens
+         = Gloomy gloves x 1 + Malicite x 1 + Evencloth x 3
+
+21) Matador's gloves
+         = Mental mittens x 1 + Slipweed x 4 + Mercury's bandana x 1
+
+22) Apprentice's gloves
+         = Grandmaster's gloves x 1 + Reset stone x 1
+
+23) Master's gloves
+         = Apprentice's gloves x 1 + Agate of evolution x 1 + Silver orb x 1
+
+24) Grandmaster's gloves
+         = Master's glove x 1 + Agate of evolution x 3 + Silver orb x 3
+
+25) Godly gloves
+         = Master's glove x 1 + Agate of evolution x 3 + Silver orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Legs )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP17]
+
+
+ 1) Leather kilt
+         = Boxer shorts x 1 + Magic beast hide x 1
+
+ 2) Tracky bottoms
+         = Training trousers x 1 + Finessence x 1
+
+ 3) Boomer briefs
+         = Boxer shorts x 1 + Boomerang x 1
+
+ 4) Wonder pants
+         = Boomer briefs x 1 + Aggressence x 1
+
+ 5) Steel kneecaps
+         = Iron kneecaps x 1 + Iron ore x 1 + Royal soil x 1
+
+ 6) Gigasteel kneecaps
+         = Steel kneecaps x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 7) Hot bikini bottoms
+         = Dangerous midriff wrap x 1 + Seashell x 3 + Crimson coral x 3
+
+ 8) Sizzling bikini bottoms
+         = Hot bikinibottom x 1 + Technicolor dreamcloth x 1 + Astral plume x 2
+
+ 9) Blessed bottoms
+         = Wizard's trousers x 1 + Sorcerer's stone x 1 + Lambswool x 2
+
+10) Tussler's torousers
+         = Tracky bottoms x 1 + Finessence x 1 + Magic beast hide x 2
+
+11) Fancy pants
+         = Loud trousers x 1 + Belle cap x 3 + Narspicious x 1
+
+12) Chainmail socks
+         = Pop socks x 1 + Chain mail x 2 + Iron nails x 2
+
+13) Red tights
+         = Pop socks x 1 + Crimson coral x 4
+
+14) Green tights
+         = Pop socks x 1 + Emerald moss x 4
+
+15) White tights
+         = Pop socks x 1 + Seashell x 4
+
+16) Transparent tights
+         = Red tights x 1 + Green tights x 1 + White tights x 1
+
+17) Dragon trousers
+         = Tussler's trousers x 1 + Dragon scale x 2 + Finessence x 2
+
+18) Tantric trousers
+         = Dragon trousers x 1 + Thinkincense x 3 + Sage's elixir x 2
+
+19) Impregnable leggings
+         = Sturdy slacks x 1 + Densinium x 1 + Orichalcum x 1
+
+20) Invincible trousers
+         = Eternity trousers x 1 + Reset stone x 1
+
+20) Immortal trousers
+         = Invincible trousers x 1 + Agate of evolution x 1 + Purple orb x 1
+
+21) Eternity trousers
+         = Immortal trousers x 1 + Agate of evolution x 3 + Purple orb x 3
+
+22) Infinity trousers
+         = Immortal trousers x 1 + Agate of evolution x 3 + Purple orb x 3
+           See Alchemiracles section for details
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Feet )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP18]
+
+
+ 1) Hobnail boots
+         = Leather boots x 1 + Magic beast hide x 1
+
+ 2) Steel sabatons
+         = Iron sabatons x 1 + Iron ore x 1 + Royal soil x 1
+
+ 3) Gigasteel sabatons
+         = Steel sabatons x 1 + Iron ore x 2 + Hephaestus' flame x 1
+
+ 4) Payback pumps
+         = Steel sabatons x 1 + Magic beast horn x 2 + Iron nails x 2
+
+ 5) Brahman boots
+         = Clever clogs x 1 + Thinkincense x 3 + Sage's elixir x 2
+
+ 6) Liquid metal slime boots
+         = Metal slime sollerets x 1 + Orichalcum x 1 + Slimedrop x 6
+
+ 7) Metal king slime boots
+         = Liquid metal slime boots x 1 + Orichalcum x 1 + Slime crown x 1
+
+ 8) Hero's boots
+         = Emperor's boots x 1 + Reset stone x 1
+
+ 9) Basilic boots
+         = Hero's boots x 1 + Agate of evolution x 1 + Yellow orb x 1
+
+10) Emperor's boots
+         = Basilic boots x 1 + Agate of evolution x 3 + Yellow orb x 3
+
+11) Boots of beatitude
+         = Basilic boots x 1 + Agate of evolution x 3 + Yellow orb x 3
+           See Alchemiracles section for details
+
+12) Classy clogs
+         = Clogs x 1 + Belle cap x 2
+
+13) Stiletto heels
+         = High heels x 1 + Fishnet stockings x 1
+
+14) Highness heels
+         = Stiletto heels x 1 + Monarchic mark x 1
+
+15) Sorceress sandals
+         = Siren sandals x 1 + Sleeping hibiscus x 3 + Belle cap x 2
+
+16) Wu shoes
+         = Kung fu shoes x 1 + Finessence x 2
+
+17) Safer shoes
+         = Safety shoes x 1 + Ruby of protection x 1 + Mythril ore x 1
+
+18) Safest shoes
+         = Safer shoes x 1 + Ruby of protection x 1 + Orichalcum x 1
+
+19) Elevating shoes
+         = Depressing shoes x 1 + Lucky pendant x 1
+
+20) Pixie boots
+         = Elevating shoes x 1 + Elfin charm x 2
+
+21) Tricksie boots
+         = Pixie boots x 1 + Agate of evolution x 1
+
+22) Sensible sandals
+         = Sapient sandals x 1 + Reset stone x 1
+
+23) Sagacious sandals
+         = Sensible sandals x 1 + Agate of evolution x 1 + Blue orb x 1
+
+24) Sapient sandals
+         = Sagacious sandals x 1 + Agate of evolution x 3 + Blue orb x 3
+
+25) Sentient sandals
+         = Sagacious sandals x 1 + Agate of evolution x 3 + Blue orb x 3
+           See Alchemiracles section for details
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Accessories )~-~-~-~-~-~-~-~-~-~-~-~-[RCP19]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+ 1) Strength ring
+         = Gold ring x 1 + Aggressence x 1
+
+ 2) Tough guy tattoo
+         = Terrible tattoo x 1 + Aggressence x 1
+
+ 3) Raging ruby
+         = Strength ring x 1 + Corundum x 1
+
+ 4) Might armlet
+         = Gold bracer x 1 + Strength ring x 1 + Tough guy tattoo x 1
+
+ 5) Slime earrings
+         = Slimedrop x 1 + Gold ring x 1
+
+ 6) Ruby of protection
+         = Dragon scale x 1 + Corundum x 1
+
+ 7) Bow tie
+         = Butterfly wing x 2 + Grubby bandage x 1
+
+ 8) Utility belt
+         = Leather kilt x 1 + Ultramarine mittens x 1 + Grubby bandage x 1
+
+ 9) Agility ring
+         = Prayer ring x 1 + Flurry feather x 2
+
+10) Meteorite bracer
+         = Gold bar x 1 + Agility ring x 2 + Lucida shard x 3
+
+11) Sorcerer's ring
+         = Skull ring x 1 + Saint's ashes x 1
+
+12) Rosary
+         = Pink pearl x 1 + Fresh water x 3 + Thinkincense x 3
+
+13) Brainy bracer
+         = Gold bracer x 1 + Sorcerer's stone x 2
+
+14) Life bracer
+         = Gold bracer x 1 + Life ring x 2
+
+15) Spirit bracer
+         = Gold bracer x 1 + Prayer ring x 1 + Elfin charm x 1
+
+16) Monarchic mark
+         = Lucky pendant x 1 + Raging ruby x 1 + Ruby of protection x 1
+
+17) Prayer ring
+         = Gold ring x 1 + Sage's elixir x 2
+
+18) Holy talisman
+         = Gold rosary x 1 + Holy water x 5 + Resurrock x 1
+
+19) Sober ring
+         = Gold ring x 1 + Sandstorm spear x 1 + Panacea x 1
+
+20) Contra band
+         = Gold ring x 1 + Poison needle x 1 + Special antidote x 1
+
+21) Full moon ring
+         = Gold ring x 1 + Poison moth knife x 1 + Lunaria x 1
+
+22) Rousing ring
+         = Gold ring x 1 + Sleepy stick x 1 + Wakerobin x 3
+
+23) Ring of clarity
+         = Gold ring x 1 + Moon axe x 1 + Angel bell x 3
+
+24) Catholicon ring
+         = Rousing ring x 1 + Sober ring x 1 + Contra band x 1
+
+25) Sull ring
+         = Sorcerer's ring x 1 + Malicite x 1
+
+26) Elfin charm
+         = Holy talisman x 1 + Elfin elixir x 1 + Emerald moss x 3
+
+27) Life ring
+         = Prayer ring x 1 + Resurrock x 3
+
+28) Goddess ring
+         = Life ring x 1 + Sainted soma x 1 + Gold bar x 1
+
+29) Reckless necklace
+         = Lucky pendant x 1 + Malicite x 1
+
+30) Lucky pendant
+         = Reckless necklace x 1 + Saint's ashes x 1
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~( Items )~-~-~-~-~-~-~-~-~-~-~-~-~-~-[RCP20]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+
+ 1) Strong medicine
+         = Medicinal herb x 2
+
+ 2) Special medicine
+         = Strong medicine x 2
+
+ 3) Superior medicine
+         = Medicinal herb x 1 + Strong medicine x 1
+
+ 4) Strong antidote
+         = Antidotal herb x 1 + Medicinal herb x 1
+
+ 5) Special antidote
+         = Strong antidote x 2
+
+ 6) Softwort
+         = Strong medicine x 1 + Moonwort bulb x 1
+
+ 7) Lunaria
+         = Moonwort bulb x 3
+
+ 8) Birdsong nectar
+         = Nectar x 3 + Fresh water x 1 + Sleeping hibiscus x 5
+
+ 9) Panacea
+         = Special medicine x 1 + Superior medicine x 1 + Moonwort bulb x 1
+
+10) Perfect panacea
+         = Panacea x 1 + Angel bell x 1 + Wakerobin x 1
+
+11) Yggdrasil dew
+         = Yggdrasil leaf x 1 + Elfin elixir x 1
+
+12) Magic water
+         = Holy water x 1 + Royal soil x 1 + Nectar x 1
+
+13) Sage's elixir
+         = Magic water x 1 + Royal soil x 1 + Nectar x 3
+
+14) Elfin elixir
+         = Yggdrasil leaf x 1 + Royal soil x 3 + Nectar x 5
+
+15) Mystifying mixture
+         = Belle cap x 1 + Manky mud x 1 + Cowpat x 3
+
+16) Sage's stone
+         = Orichalcum x 1 + Birdsong nectar x 3 + Silver orb x 1
+
+17) Densinium
+         = Flintstone x 3 + Iron ore x 3
+
+18) Gold bar
+         = Sainted soma x 3 + Ethereal stone x 2 + Birdsong nectar x 5
+
+19) Hephaestus' flame
+         = Lava lump x 1 + Royal soil x 1 + Toad oil x 1
+
+20) Enchanted stone
+         = Thunderball x 2 + Ice crystal x 2 + Mystifying mixture x 1
+
+21) Ethereal stone
+         = Enchanted stone x 1 + Perfect panacea x 1 + Narspicious x 2
+
+22) Astral plume
+         = Flurry feather x 3 + Fresh water x 2 + Angel bell x 1
+
+23) Celestial skein
+         = Fresh water x 3 + Tangleweb x 5
+
+24) Technicolour dreamcloth
+         = Grubby bandage x 3 + Brighten rock x 1 + Celestial skein x 1
+
+25) Sainted soma
+         = Lucida shard x 2 + Sage's elixir x 2 + Astral plume x 2
+
+26) Lucida shard
+         = Brighten rock x 3 + Evencloth x 3
+
+27) Agate of evolution
+         = Sainted soma x 2 + Ethereal stone x 2 + Chronocrystal x 1
+
+28) Sunstone
+         = Lucida shard x 2 + Mirrorstone x 3 + Hephaestus' flame x 1
+
+29) Malicite
+         = Pink pearl x 1 + Terrible tattoo x 2 + Narspicious x 3
+
+30) Finessence
+         = Fisticup x 2 + Slipweed x 1 + Superior medicine x 1
+
+31) Aggressence
+         = Fisticup x 2 + Wakerobin x 1 + Softwort x 1
+
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Alchemiracles )-~-~-~-~-~-~-~-~-~-~-~-[RCP21]
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+The following data on Alchemiracles was provided by Terence.
+
+There are 22 Alchemiracle recipes in the game. An Alchemiracle recipe is 
+identical to another recipe, except that you only have a chance of getting the
+better item. If that chance fails, you'll get the lesser item.
+
+All Alchemiracle recipes are based around the 4 tiers that the "Ultimate 
+Equipment" can be: you get the 1st Tier from the grotto bosses or from chests
+deep in the grottos, and then upgrade to 2nd Tier normally and then to either
+4th Tier via Alchemiracle or 3rd Tier if you fail. You can always reset a 3rd
+Tier to 1st Tier using a Reset Stone to try again if you fail. An Alchemiracle
+recipe will save the game before it tells you the result, so you cannot simply
+shut off the DS and try again.
+
+Also, all Alchemiracle recipes require 3 Agates of Evolution and 3 Orbs, the 
+colour of which depends on the precise item you're upgrading. These orbs are 
+rewards from the Legacy Bosses. Further details on all of this can be found
+below in the and in the Bestiary guide's section on Legacy Bosses.
+
+==
+
+Each Alchemiracle has a minimum and maximum chance of success. This chance of
+success is based on the Hero's *stats*. Each 4th Tier item is aligned to a
+particular stat, and the recipe will demand a certain amount of this in order
+to give you a bonus to success. Let's look at a quick example.
+
+The Hypernova Sword is aligned with Strength. The recipe has a success rate of
+10% to 40%, with the stat range for this success rate being 300-999. If you
+have 300 Strength or less, you get the absolute minimum rate of 10%. If you 
+have 999 Strength, you get the absolute maximum rate of 40%. If you have 
+something in between, like 500 Strength, then you get a value linearly between 
+the two values: 18.58% in this case, which is then rounded down to 18%.
+
+Krak Pot will give you an estimate of this percentage, but he will, in fact,
+round down the percentage *further* to the next 10%. So instead of 18%, Krak
+Pot will tell you he thinks it has a 10% chance of success. In this case, he
+is being misleading: you have a much greater chance of success. But that's as
+far as it goes: there are no other normal ways that you can increase your
+chance of success.
+
+
+The table below summarizes the all of the data.  The table is divided into
+three sections, the first has a stat range of 300-999 and a chance of
+10%-40%, the second section has a stat range of 300-999 and a chance of
+10%-50%, and the third section has a stat range of 300-700 and a chance of
+20%-50%.
+
+From Terence's data above, the following formulas can be derived to determine
+your chance of success.  There are three formulas, one for each of the
+sections of the table.  Note that these formulas do not work for values less
+than 300, since the chance is simply set to 10% as the minimum.  Also, for 
+Formula #3, the Stat Range peaks at 700, and beyond that the chance is simply
+set to 50%.
+
+These formulas are very simple, but these are for those who are not very
+mathematically inclined.
+
+
+Formula #1 - Stat Range 300 to 999, Chance Range 10% to 40%
+
+   Chance = 0.0429 * PrimaryStat - 2.87
+
+
+Formula #2 - Stat Range 300 to 999, Chance Range 10% to 50%
+
+   Chance = 0.0572 * PrimaryStat - 7.16
+
+
+Formula #3 - Stat Range 300 to 700, Chance Range 20% to 50%
+
+   Chance = 0.075 * PrimaryStat - 2.5
+
+
+Here is an example of how to use the formulas:
+
+If you are making the Hypernova Sword, which has a primary stat of Strength,
+and your hero has a strength stat of 500, then you would use Formula #1 since 
+the Hypernova sword has a Stat Range of 300 to 999 and a Chance Range of 10% to
+40%.  Then the formula would be:
+
+   Chance = 0.0429 * (500) - 2.87 => 21.45 - 2.87 = 18.58
+
+Since the chance is determined as a whole number, just round down (or truncate)
+
+   18.58 => 18 => 18% chance of success
+
+
+       o--------------------------------------------------------------o
+      /       Item Name       | Stat Range|  Primary Stat   |  Chance  \
+     o------------------------------------------------------------------o
+     | Hypernova Sword        | 300 - 999 | Strength        | 10% - 40% |
+     | Red-hot Poker          | 300 - 999 | Magical Mending | 10% - 40% |
+     | Dynamo Dagger          | 300 - 999 | Deftness        | 10% - 40% |
+     | Aurora Staff           | 300 - 999 | Magical Might   | 10% - 40% |
+     | Über Gringham Whip     | 300 - 999 | Magical Might   | 10% - 40% |
+     | Coma Cudgel            | 300 - 999 | Magical Mending | 10% - 40% |
+     | Xenlon Claws           | 300 - 999 | Agility         | 10% - 40% |
+     | Dire Critical Fan      | 300 - 999 | Charm           | 10% - 40% |
+     | Galaxy Axe             | 300 - 999 | Strength        | 10% - 40% |
+     | Starsmasher            | 300 - 999 | Resilience      | 10% - 40% |
+     | Galaxarang             | 300 - 999 | Agility         | 10% - 40% |
+     | Seraph's Bow           | 300 - 999 | Deftness        | 10% - 40% |
+     |------------------------------------------------------------------|
+     | Soul Sucker            | 300 - 999 | Resilience      | 10% - 50% |
+     | Heavenly Helm          | 300 - 999 | Resilience      | 10% - 50% |
+     | Legendary Armour       | 300 - 999 | Resilience      | 10% - 50% |
+     | Exotoga                | 300 - 999 | Charm           | 10% - 50% |
+     | Seraph's Robe          | 300 - 999 | Magical Mending | 10% - 50% |
+     |------------------------------------------------------------------|
+     | Sol Invictus Gauntlets | 300 - 700 | Strength        | 20% - 50% |
+     | Godly Gloves           | 300 - 700 | Deftness        | 20% - 50% |
+     | Infinity Trousers      | 300 - 700 | Magical Might   | 20% - 50% |
+     o Boots of Beatitude     | 300 - 700 | Strength        | 20% - 50% o
+      \ Sentient Sandals      | 300 - 700 | Agility         | 20% - 50%/
+       o--------------------------------------------------------------o
+
+
+The values listed on the Attributes page for your Hero are the ones that are
+used. This means that changing your job temporarily can increase your chances,
+as can anything that modifes your base values.
+
+Alchemiracle chances are based on the Hoimi Table and uses the same types of 
+random output as Grotto Drop Chances, so you can use the Hoimi Table to help, 
+if you wish. I will not cover the details of doing so here.
+
+Finally, please note that the chances of an Alchemiracle do *NOT* increase if
+it's your birthday, or if you happen to get a Red Slime or Metal Slime on your
+loading screen. You will still have the same percentage chances as listed
+above.
+
+Revocations don't add even a single percentage to your success rate with
+Alchemiracles. It's all tied to your stats (so some of the Revocation
+*Accessories* can help, naturally).
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~( Locating Ingredients )-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+~-~-~-~-~-~-~-~-~-~-~-~-~( Items Found on World Map )-~-~-~-~-~-~-~-~-~-[RCP22]
+
+There are many ingredients that are available on the world map.  I have not
+bothered to list them here in text since it's easier to just look at the map
+that has already been done.
+
+The following is a link to some maps that show the locations of all of the
+items that can be found on the world map:
+
+http://www.woodus.com/den/games/dq9ds/maps.php?tp=maps_overworld
+
+
+Here is a full list of the items that can be found on the world map.
+
+Antidotal herb
+
+Belle cap
+
+Brighten rock
+
+Chimera wing
+
+Chronocrystal
+
+Coagulant
+
+Corundum
+
+Cowpat
+
+Crimson coral
+
+Emerald moss
+
+Evencloth
+
+Fisticup
+
+Flintstone
+
+Flurry feather
+
+Fresh water
+
+Glass frit
+
+Gleeban groat
+
+Gleeban guinea
+
+Holy water
+
+Horse manure
+
+Ice crystal
+
+Iron ore
+
+Kitty litter
+
+Lava lump
+
+Magic water
+
+Manky mud
+
+Medicinal herb
+
+Mirrorstone
+
+Mythril ore
+
+Narpicious
+
+Nectar
+
+Platinum ore
+
+Resurrock
+
+Rockbomb shard
+
+Royal soil
+
+Seashell
+
+Sleeping hibiscus
+
+Slipweed
+
+Softwort
+
+Superior medicine
+
+Tangleweb
+
+Thickincense
+
+Thunderball
+
+Wakerobin
+
+Yggdrasil leaf
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-( Monster Drops - Alchemy )-~-~-~-~-~-~-~-~-~-[RCP23]
+
+The following list shows the alchemy items that are dropped by monsters.  The
+list is in alphabetical order, and includes each monster that has a chance to
+drop that particular item.  Note however, that it does not mention whether the
+item is that monster's normal drop or its rare drop.  You can refer to the 
+Bestiary guide to find all of the details of each monster.
+
+
+Aggressence: Hammibal, Yore
+
+Belle cap: Morphean mushroom, Mushroom mage
+
+Blue orb: Nimzo, Orgodemir
+
+Brighten rock: Cosmic chimaera, Goodybag, Rashaverak
+
+Butterfly wing: Dread admiral
+
+Celestial skein: Lleviathan
+
+Corundum: Admirer
+
+Cowpat: Bag o' laughs, Mudraker, Swinoceros
+
+Crimson coral: Belisha beakon, Crabid, Knocktopus, Spinchilla
+
+Densinium: Drakulard, Goreham-Hogg, Wishmaster
+
+Emerald moss: Green dragon, Lleviathan, Salamarauder
+
+Enchanted stone: Larstastnaras
+
+Ethereal stone: Gadrongo
+
+Evencloth: Dark skeleton, Geothaum, Ragged reaper
+
+Fisticup: Morphean mushroom, Mushroom mage
+
+Flintstone: Geothaum, Golem, Grinade, Living statue, Mad moai, Stone golem
+
+Flurry feather: Chimaera, Weaken beakon
+
+Fresh water: Cheeky tiki
+
+Glass frit: Cyclown, Parched peckerel, Power hammer, Stale whale, 
+            Morphean mushroom
+
+Gold bar: AU-1000, Drakularge, Gem jamboree, Gem slime, Pandora's box,
+          Tyrannosaurus Wrecks
+
+Green orb: Estark, Psaro
+
+Grubby bandage: Blood mummy, Mummy boy, Mummy
+
+Hephaestus' flame: Flamin' drayman, Magmalice, Rockbomb
+
+Horse manure: Godsteed, Sick trigertaur, Tantamount, White trigertaur
+
+Ice crystal: Brrearthenwarrior, Firn fiend, Freezing fog, Shivery shrubbery,
+             Uncommon cold
+
+Iron nails: Clockwork cuckoo, Killing machine, Shocktopus
+
+Iron ore: Bad karmour, Corrupt carter, Hunter mech, Robo-robin
+
+Kitty litter: Clawcerer, Parched peckerel, Power hammer, Purrestidgitator
+
+Lambswool: Battering ram, Drackal, Ram rider, Rampage
+
+Lava lump: Admirer, Bagma, Live lava, Magmalice, Master of Nu'un, 
+           Scarlet fever, Terrorhawk
+
+Lucida shard: Cosmic chimaera
+
+Magic beast hide: Badboon, Badger mager, Badja, Bewarewolf, Big badboon,
+                  Bling badger, Boppin' badger, Brainy badboon, Claw hammer, 
+                  Dreadful drackal, Hexagoon, Master moosifer, Moosifer, 
+                  Octagoon, Rampage, Rover, Scarewolf, Splatterhorn,
+                  Swinoceros, Tearwolf, Trigertaur
+
+Magic beast horn: Battering ram, Dreadful drackal, Knocktopus, Seasaur, 
+                  Shocktopus, Splatterhorn
+
+Malicite: Blood mummy, Grrrgoyle, Hootingham-Gore, Mummy
+
+Manky mud: Apeckalypse, Ghoul, Mortoad, Stenchurion, Toxic zombie,
+           Walking corpse
+
+Mirrorstone: Alphyn, Mega moai
+
+Mythril ore: Golem, Metal medley, Void droid
+
+Narspicious: Shivery shrubbery
+
+Nectar: Pink sanguini
+
+Orichalcum: Gem slime, Greygnarl, Metal king slime
+
+Platinum ore: Octagoon, Platinum king jewel
+
+Purple orb: Dhoulmagus, Rhapthorne
+
+Red orb: Dragonlord, Malroth
+
+Reset stone: Firn fiend, Stone guardian
+
+Resurrock: Grrrgoyle, Handsome crab, Living statue, Sculpture vulture,
+           Stone golem, Stone guardian
+
+Royal soil: Barriearthenwarrior, Drastic drackal, Mad moai, Ragin' Contagion,
+            Terror troll
+
+Saint's ashes: Genie sanguini, Sculptrice, Seavern
+
+Seashell: Crabber dabber doo, Spinchilla
+
+Silver orb: Baramos, Zoma
+
+Snakeskin: Diethon, Flython, Sail serpent
+
+Thunderball: Cumulus rex, Cumulus vex
+
+Toad oil: Blastoad, Expload, Gastropog, Giddy gastropog, Gloomy gastropog,
+          Mortoad
+
+Tortoiseshell: Crabid, Wonder wyrtle, Wyrtoise, Wyrtle
+
+Wing of bat: Bloody manguini, Boogie manguini, Diethon, Drackmage, Drackmya,
+             Flython, Gramarye gruffon, Great gruffon, Gruffon, Manguini
+
+Yellow orb: Mortamor, Murdaw
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-( Monster Drops - Non-Alchemy )-~-~-~-~-~-~-~-~-[RCP24]
+
+This next list shows all items dropped by monsters that are used in alchemy
+recipes, but are not normal alchemy items.  These include consumable items,
+weapons, armour and other items that have a purpose aside from alchemy uses.
+
+
+Agility ring: Cyclown, Goresby-Purrvis, Liquid metal slime, Whirly girly
+
+Angel bell: Chariot chappie, Lost soul
+
+Angel's robe: Tyrannosaurus Wrecks
+
+Antidotal herb: Bodkin fletcher, Bubble slime, Cruelcumber, Gastropog,
+                Sacksquatch
+
+Apprentice's gloves: Shogum
+
+Ascetic robe: Wight priest
+
+Battle fork: Deadcurion
+
+Beast claws: Vermil lion
+
+Boomer briefs: Boss troll, Toxic zombie
+
+Boss shield: Freaky tiki
+
+Bow tie: Expload
+
+Boxer shorts: Sacksquatch
+
+Brain drainer: Sir Sanguinus
+
+Cautery sword: Axolhotl, Grim ginner, Infernal armour
+
+Chain mail: Skeleton soldier
+
+Cloak of evasion: Sluggernaut, Tearwolf
+
+Clogs: Beakon
+
+Coagulant: Betterfly, Cumaulus, Dread admiral, Hell niño, Treevil
+
+Cobra claws: Hammer horror
+
+Cobra fan: Seavern
+
+Cotton gloves: Skeleton
+
+Crow's claws: Icikiller, Weaken beakon, Fright knight, Night knight
+
+Deadly nightblade: Handsome crab
+
+Demon whip: Alphyn
+
+Depressing shoes: Liquid metal slime
+
+Dragon claws: Drakulord, Red dragon
+
+Dragon scale: Abyss diver, Drakulard, Drakularge, Drakulord, Equinox,
+              Grand Lizzier, Green dragon, Greygnarl, Mandrake major,
+              Mandrake marauder, Mandrake marshal, Mandrake monarch, Nodoph,
+              Rashaverak, Red dragon, Riptide, Seasaur, Wyrtoise, Wyrtle
+
+Dragonsbane: Mandrake marshal
+
+Elfin elixir: Cobra cardinal
+
+Falcon blade: Prime slime, Slionheart
+
+Feather fan: Mecha-mynah
+
+Fire blade: Scarlet fever
+
+Fire claws: Nemean
+
+Fizzle-retardant suit: Python priest
+
+Fowl fan: Bird of terrordise, Terrorhawk
+
+Fur poncho: Great gruffon
+
+Garish garb: Slugger
+
+Giant's hammer: Atlas
+
+Gold bracer: Cannibox
+
+Gold ring: Aggrosculpture, Drackmya, Gold golem
+
+Gold rosary: Legionnaire, Mimic, Wight priest
+
+Hades' helm: Bad karmour, Hell's gatekeeper
+
+Hallowed helm: Hammibal
+
+Handrills: Corrupt carter, Cyber spider, Robo-robin, Trauminator
+
+Heavy handwear: Hammer horror, Sluggerslaught
+
+Hela's hammer: Hell's gatekeeper
+
+Hero's boots: Trauminator
+
+High heels: Morag
+
+Holy lance: Trigertaur
+
+Holy water: Firespirit, Lost soul, Spirit, Teeny sanguini
+
+Hunter's bow: Hunter mech
+
+Icicle dirk: Uncommon cold
+
+Invincible trousers: Nemean
+
+Iron armour: Restless armour
+
+Iron broadsword: Gum shield, Restless armour, Slime knight
+
+Iron claws: Bewarewolf
+
+Iron cuirass: Legionnaire
+
+Iron gauntlets: Wight knight
+
+Iron helmet: Axolhotl, Metal slime knight
+
+Iron lance: Chariot chappie
+
+Iron mask: Alarmour, Deadcurion, Harmour
+
+Iron shield: Salamarauder
+
+Leather cape: Bodkin bowyer
+
+Leather hat: Bodkin archer, Bodkin bowyer
+
+Leather kilt: Brownie, Hammerhood
+
+Leather whip: Lunatick
+
+Light shield: Gum shield, Metal slime knight
+
+Lightning staff: Cumulus rex
+
+Long spear: Scourgette, Zumeanie
+
+Lunaria: Boogie manguini, Prism peacock
+
+Magic armour: Charmour, Lethal armour
+
+Magic shield: Cheeky tiki, Grim ginner
+
+Magic water: Firespirit, Jinkster, Lunatick, Magus
+
+Magical robes: Shaman, Sorcerer
+
+Medicinal herb: Boppin' badger, Dracky, Funghoul, Healslime, She-slime, Slime,
+                Slugger, Sootheslime, Teeny sanguini
+
+Miracle sword: Shogum
+
+Mistick: Cumulus hex
+
+Moonwort bulb: Badger mager, Batteryfly, Cruelcumber, Leafy larrikin,
+               Man o' war, Pink sanguini
+
+Mystifying mixture: Mudraker
+
+Oaken club: Boss troll, Cyclops, Hammerhood, Troll
+
+Panacea: Blastoad, Cureslime
+
+Partisan: Sick trigertaur, Stenchurion
+
+Pink pearl: Goodybag
+
+Platinum headgear: Shogum
+
+Pointy hat: Jinkster, Mean spirit
+
+Poison moth knife: Crabber dabber doo, King crab
+
+Poison needle: Peckerel
+
+Prayer ring: Genie sanguini, Hocus chimaera
+
+Raging bull helm: Barbatos
+
+Raging ruby: Brainy badboon, Drastic drackal, Master moosifer, 
+             Tyrannosaura Wrecks
+
+Red tights: Belisha beakon
+
+Rockbomb shard: Bomboulder, Flamin' drayman, Grinade, Rockbomb, Scourgette
+
+Ruby of protection: King Godfrey
+
+Ruinous shield: Alarmour
+
+Sacred armour: Sir Sanguinus
+
+Safety shoes: Gramarye gruffon
+
+Sage's elixir: Dreadmaster, Fowleye, Freezing fog, Hootingham-Gore
+
+Scale armour: Icikiller
+
+Scale shield: Earthenwarrior
+
+Sensible sandals: Elusid
+
+Silk robe: Mean spirit, Meowgician, Spirit
+
+Silver mail: Harmour, Infernal armour
+
+Skull helm: Blight knight, Night knight
+
+Skull ring: Aggrosculpture
+
+Sleeping hibiscus: Funghoul, King crab, Ram rider
+
+Slime crown: King cureslime, King slime, Metal king slime
+
+Slime earrings: Slime stack
+
+Slimedrop: Bubble slime, Cureslime, Darkonium slime, Healslime, King cureslime,
+           King slime, Medislime, Metal medley, She-slime, Slime, Slime knight,
+           Slime stack, Sootheslime
+
+Smart suit: Dark skeleton
+
+Snakeskin whip: Sail serpent
+
+Softwort: Bagma, Bud brother, Man o' war
+
+Soldier's Sword: Earthenwarrior, Wooper trooper
+
+Spangled dress: Cannibelle
+
+Special medicine: Badja, Great troll
+
+Spring breeze hat: Fowleye
+
+Staff of sentencing: Clawcerer
+
+Star's suit: Elusid
+
+Stolos' staff: Purrestidgitator
+
+Strength ring: Big badboon, Gigantes, Walking corpse
+
+Strong antidote: Peckerel, Raving lunatick, Treeface
+
+Strong medicine: Badboon, Bag o' laughs, Leafy larrikin, Medislime,
+                 Metal slime, Treeface, Zumeanie
+
+Superior medicine: Bud brother, Pale whale, Treevil
+
+Sword breaker: Fright knight
+
+Tangleweb: Cumaulus, Cyber spider, Tyrantula, Widow's pique
+
+Terrible tattoo: Barbatos, Bloody manguini, Freaky tiki, Garth Goyle, Gruffon,
+                 Manguini
+
+Thinking cap: Darkonium slime
+
+Tint-tastic tutu: Prism peacock
+
+Tough guy tattoo: Atlas, Claw hammer, Ghoul, Goreham-Hogg, Mega moai
+
+Trident: Stale whale
+
+Tropotoga: Atlas
+
+Turban: Mummy boy
+
+Ultramarine mittens: Shaman
+
+Valkyrie sword: Prime slime
+
+Vesta gauntlets: Equinox
+
+Victorious armour: Excalipurr
+
+Watermaul wand: Abyss diver, Python priest, Slugly betsy
+
+White tights: Nemean
+
+Wizard's staff: Blinkster, Magus
+
+Yggdrasil leaf: Barbarus, Bling badger, Greygnarl
+
+
+~-~-~-~-~-~-~-~-~-~-~-~( Shops - Consumables & Alchemy )~-~-~-~-~-~-~-~-[RCP25]
+
+This list shows all consumables and alchemy items that are sold is shops in
+the various towns scatted across the world.  This list only contains the
+consumables and alchemy items that are both sold and required in recipes.
+
+
+Angel bell: Porth Llaffan, Dourbridge, Bloomingdale, Gleeba, Batsureg,
+            Wormwood Creek, Upover
+
+Antidotal herb: Angel Falls, Zere, Stornway, Coffinwell, Alltrades Abbey,
+                Porth Llaffan, Slurry Quay, Dourbridge, Bloomingdale, Gleeba,
+                Batsureg, Swinedimples Academy, Wormwood Creek, Upover
+
+Chronocrystal: Cave northeast of Zere Rock (Post-Game)
+
+Coagulant: Batsureg, Wormwood Creek, Upover
+
+Gold bracer: Porth Llaffan, Dourbridge
+
+Holy water: Zere, Stornway, Coffinwell, Porth Llaffan, Slurry Quay, Dourbridge,
+            Bloomingdale, Gleeba, Batsureg, Swinedimples Academy,
+            Wormwood Creek, Upover
+
+Lambswool: Batsureg
+
+Magic water: Porth Llaffan, Slurry Quay, Dourbridge, Bloomingdale, Gleeba,
+             Batsureg, Swinedimples Academy, Wormwood Creek, Upover
+
+Medicinal herb: Angel Falls, Zere, Stornway, Coffinwell, Alltrades Abbey,
+                Porth Llaffan, Slurry Quay, Dourbridge, Bloomingdale, Gleeba,
+                Batsureg, Swinedimples Academy, Wormwood Creek, Upover
+
+Moonwort bulb: Coffinwell, Porth Llaffan, Slurry Quay, Dourbridge,
+               Bloomingdale, Gleeba, Batsureg, Swinedimples Academy,
+               Wormwood Creek, Upover
+
+Sleeping hibiscus: Bloomingdale
+
+Softwort: Bloomingdale
+
+Strong antidote: Gleeba, Wormwood Creek, Upover
+
+Strong medicine: Gleeba, Batsureg, Wormwood Creek, Upover
+
+Superior medicine: Bloomingdale
+
+Tangleweb: Batsureg, Wormwood Creek, Upover
+
+Wakerobin: Bloomingdale
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-( Shops - Weapons )-~-~-~-~-~-~-~-~-~-~-~-[RCP26]
+
+This list contains all weapons that are both sold somewhere, and are also
+required in a given recipe.  Post-Game is a reference that the particular shop
+won't be available until you finish the main game, and Secret Shop refers to
+the shop in Dourbridge that can only be accessed after you acquire the
+Ultimate key.
+
+
+Battle fork: Bloomingdale, Gleeba
+
+Battle-axe: Gleeba, Batsureg, Wormwood Creek
+
+Blowy bow: Wormwood Creek, Upover
+
+Bronze knife: Stornway, Coffinwell
+
+Cautery sword: Dourbridge, Bloomingdale
+
+Chain whip: Bloomingdale, Gleeba
+
+Cobra claws: Stornway (Post-Game)
+
+Cobra fan: Batsureg
+
+Crow's claws: Bloomingdale, Gleeba
+
+Deadly nightblade: Bloomingdale
+
+Divine dagger: Stornway, Coffinwell
+
+Dragon claws: Wormwood Creek, Upover
+
+Dragon rod: Stornway (Post-Game)
+
+Dragonsbane: Wormwood Creek
+
+Driller pillar: Gleeba, Batsureg
+
+Edged boomerang: Bloomingdale, Batsureg
+
+Falcon blade: Stornway (Post-Game)
+
+Feather fan: Angel Falls, Stornway
+
+Feline fan: Swinedimples Academy
+
+Fire blade: Upover
+
+Fire claws: Upover
+
+Flametang boomerang: Stornway (Post-Game)
+
+Foehn fan: Dourbridge, Bloomingdale
+
+Fowl fan: Gleeba
+
+Giant's hammer: Stornway (Post-Game)
+
+Gladius: Stornway (Post-Game)
+
+Great bow: Upover
+
+Gusterang: Upover
+
+Handrills: Gleeba, Batsureg, Wormwood Creek
+
+Headsman's axe: Dourbridge (Secret Shop)
+
+Holy lance: Dourbridge, Bloomingdale
+
+Hunter's bow: Batsureg
+
+Ice axe: Stornway (Post-Game)
+
+Icicle dirk: Wormwood Creek
+
+Iron axe: Porth Llaffan
+
+Iron bar: Dourbridge, Bloomingdale
+
+Iron broadsword: Coffinwell, Alltrades Abbey
+
+Iron claws: Stornway, Coffinwell
+
+Iron fan: Stornway, Coffinwell
+
+Iron lance: Stornway, Coffinwell
+
+Iron whip: Gleeba, Batsureg
+
+King axe: Upover
+
+Laundry pole: Stornway
+
+Leather whip: Angel Falls, Stornway
+
+Lightning staff: Gleeba, Batsureg
+
+Long spear: Coffinwell, Alltrades Abbey
+
+Magical mace: Upover
+
+Mistick: Wormwood Creek, Upover
+
+Moon axe: Wormwood Creek, Upover
+
+Oaken pole: Coffinwell, Alltrades Abbey
+
+Partisan: Batsureg, Swinedimples Academy
+
+Poison moth knife: Coffinwell, Alltrades Abbey
+
+Poison needle: Dourbridge, Bloomingdale
+
+Potshot bow: Batsureg, Wormwood Creek
+
+Purblind bow: Stornway (Post-Game)
+
+Queen's whip: Stornway (Post-Game)
+
+Rapier: Stornway, Coffinwell
+
+Razor-wing boomerang: Batsureg, Wormwood Creek
+
+Rune staff: Wormwood Creek
+
+Sage's staff: Stornway (Post-Game)
+
+Sandstorm spear: Gleeba, Wormwood Creek
+
+Short bow: Porth Llaffan
+
+Sleepy stick: Batsureg
+
+Snakeskin whip: Dourbridge, Bloomingdale
+
+Soldier's Sword: Angel Falls, Stornway
+
+Staff of sentencing: Coffinwell, Alltrades Abbey
+
+Stellar fan: Upover
+
+Stolos' staff: Dourbridge, Bloomingdale
+
+Swallowtail: Wormwood Creek, Upover
+
+Sword breaker: Upover
+
+Terra tamper: Upover
+
+Tortoiseshell fan: Bloomingdale
+
+Valkyrie sword: Batsureg, Wormwood Creek
+
+War fan: Coffinwell, Alltrades Abbey
+
+War hammer: Gleeba, Batsureg, Wormwood Creek
+
+Watermaul wand: Bloomingdale, Gleeba
+
+Wizard's staff: Stornway, Coffinwell
+
+
+~-~-~-~-~-~-~-~-~-~-~-~( Shops - Armour & Accessories )-~-~-~-~-~-~-~-~-[RCP27]
+
+This list contains all armour and accessories that are both sold somewhere, 
+and are also required in a given recipe.  Post-Game is a reference that the 
+particular shop won't be available until you finish the main game, and Secret 
+Shop refers to the shop in Dourbridge that can only be accessed after you 
+acquire the Ultimate key.
+
+
+Archer's armguard: Batsureg
+
+Bandana: Angel Falls, Stornway
+
+Boomer briefs: Porth Llaffan, Slurry Quay
+
+Boss shield: Dourbridge (Secret Shop)
+
+Bow tie: Slurry Quay, Dourbridge, Gleeba
+
+Boxer shorts: Angel Falls
+
+Bruiser's bracers: Wormwood Creek
+
+Bunny tail: Zere, Porth Llaffan
+
+Chain mail: Stornway, Coffinwell
+
+Circlet: Bloomingdale
+
+Clever clogs: Stornway (Post-Game)
+
+Cloak of evasion: Porth Llaffan
+
+Clogs: Zere, Coffinwell
+
+Cotton gloves: Angel Falls
+
+Dangerous bikini top: Dourbridge (Secret Shop)
+
+Dangerous midriff wrap: Dourbridge (Secret Shop)
+
+Dark robe: Upover
+
+Disturbin' turban: Gleeba
+
+Dragon top: Wormwood Creek
+
+Dragon trousers: Wormwood Creek
+
+Feather headband: Bloomingdale
+
+Feathered cap: Porth Llaffan
+
+Fishnet stockings: Slurry Quay, Dourbridge (Secret Shop)
+
+Fur hood: Slurry Quay
+
+Garish garb: Coffinwell
+
+Gold ring: Stornway, Porth Llaffan, Dourbridge
+
+Green tights: Batsureg
+
+Hairband: Stornway
+
+Heavy handwear: Dourbridge (Secret Shop)
+
+High heels: Stornway, Dourbridge (Secret Shop)
+
+Hunter's hat: Batsureg
+
+Iron armour: Alltrades Abbey, Porth Llaffan
+
+Iron cuirass: Coffinwell
+
+Iron gauntlets: Coffinwell, Porth Llaffan
+
+Iron helmet: Alltrades Abbey, Porth Llaffan, Dourbridge
+
+Iron kneecaps: Coffinwell, Alltrades Abbey
+
+Iron mask: Bloomingdale
+
+Iron sabatons: Coffinwell, Porth Llaffan
+
+Iron shield: Alltrades Abbey, Porth Llaffan
+
+Kung fu shoes: Bloomingdale
+
+Leather boots: Zere, Coffinwell
+
+Leather cape: Zere
+
+Leather hat: Zere, Stornway
+
+Leather kilt: Zere, Coffinwell
+
+Light gauntlets: Upover
+
+Light shield: Dourbridge, Bloomingdale
+
+Loud trousers: Bloomingdale
+
+Magic armour: Gleeba
+
+Magic shield: Gleeba
+
+Magical hat: Upover
+
+Magical robes: Gleeba
+
+Mail coif: Batsureg
+
+Mayoress's mittens: Upover
+
+Mental mittens: Wormwood Creek
+
+Mirror armour: Upover
+
+Pink pearl: Dourbridge, Gleeba
+
+Platinum headgear: Gleeba, Slurry Quay
+
+Pointy hat: Slurry Quay
+
+Pop socks: Porth Llaffan, Dourbridge (Secret Shop)
+
+Power shield: Dourbridge (Secret Shop), Upover
+
+Raging bull helm: Wormwood Creek
+
+Red tights: Gleeba
+
+Safety shoes: Wormwood Creek
+
+Scale armour: Stornway
+
+Scale shield: Zere, Stornway
+
+Silk robe: Zere, Stornway
+
+Silver mail: Bloomingdale
+
+Silver tiara: Porth Llaffan
+
+Siren sandals: Bloomingdale
+
+Slime earrings: Porth Llaffan, Dourbridge
+
+Smart suit: Bloomingdale
+
+Spangled dress: Bloomingdale
+
+Strongsam: Batsureg
+
+Sturdy slacks: Dourbridge (Secret Shop)
+
+Thinking cap: Swinedimples Academy, Wormwood Creek
+
+Tint-tastic tutu: Stornway (Post-Game)
+
+Tortoise shell: Porth Llaffan, Slurry Quay
+
+Training top: Stornway
+
+Training trousers: Stornway
+
+Turban: Coffinwell
+
+Tussler's top: Bloomingdale
+
+Tussler's trousers: Bloomingdale
+
+Velvet cape: Gleeba
+
+Warrior's helm: Bloomingdale
+
+Warrior's shield: Wormwood Creek
+
+White tights: Swinedimples Academy
+
+Wizard's trousers: Gleeba
+
+
+~-~-~-~-~-~-~-~-~-~-~-~-~( Making Money With Alchemy )~-~-~-~-~-~-~-~-~-[RCP28]
+
+*~* Credits to Yuna10 for this section *~*
+
+There are two recipes with which you are able to make a lot of money quite
+quickly.  For both of these recipes, you will be able to purchase all of the
+required ingredients from shops, create the new item with them, and sell this
+new item to an NPC for a profit greater than the cost of the combined sum of 
+the ingredients.  Since you are buying all of the ingredients from NPCs, the
+intial investment cost is quite high (especially when you start producing
+large quantities).  The maximum you can buy/sell per trip is 99.
+
+Head #35) Ear cosy
+         = Fur hood x 1 + Bunny tail x 1 + Lambswool x 1
+
+  Fur hood:    Slurry Quay     550g
+Bunny tail:    Porth Llaffan   240g
+ Lambswool:    Batsureg        180g
+                               ----
+               Total:          970g
+
+Sell Ear cosy to NPC for:     1200g
+
+              Profit:          230g
+              
+Initial investment x99:      96030g
+            Profit x99:      22770g
+
+
+Torso #7) Gold mail
+         = Silver mail x 1 + Gold ring x 1 + Gold bracer x 1
+
+Silver mail:   Bloomingdale   4000g
+  Gold ring:   Porth Llaffan   220g
+Gold Bracer:   Porth Llaffan   350g
+                               ----
+               Total:         4570g
+
+Sell Gold mail to NPC for:    4900g
+
+              Profit:          330g
+              
+Initial investment x99:     452430g
+            Profit x99:      32670g
+
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~Contact Info-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+My email address is "fqureshi.zaraf@gmail.com".  If you have any questions,
+comments, concerns, something to add, or if you notice a mistake or
+something, please send me an email about it.  Make sure you mention
+Quest IX in the subject heading so that I don't delete it as spam.  Thanks!
+
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-Copyright-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+
+This document is hereby placed into the Public Domain.
