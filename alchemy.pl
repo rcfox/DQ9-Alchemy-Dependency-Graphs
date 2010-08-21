@@ -16,7 +16,8 @@ sub print_item
 
 	# Check for infinite recursion
 	my @things = split(/\-/,$name);
-	if (pop @things ~~ @things)
+	my $first_thing = pop @things;
+	if (grep { $first_thing eq $_ } @things)
 	{
 		print $file "\"$item\" -> \"$ownername\" [label=\"$count\"];\n";
 		return;
@@ -49,7 +50,7 @@ while(<>)
 	if (/(~-)+.*(Shops)/)
 	{
 		$shops_mode = 0;
-		$shops_mode = 1 if ($2 ~~ "Shops");
+		$shops_mode = 1 if ($2 eq "Shops");
 	}
 
 	if ($shops_mode)
